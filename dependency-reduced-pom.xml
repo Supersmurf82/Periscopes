@@ -125,7 +125,7 @@
     <dependency>
       <groupId>net.countercraft</groupId>
       <artifactId>Movecraft</artifactId>
-      <version>7.0</version>
+      <version>LATEST</version>
       <scope>system</scope>
       <systemPath>${project.basedir}/lib/Movecraft.jar</systemPath>
     </dependency>
