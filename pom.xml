@@ -82,9 +82,10 @@
             <version>1.3.3</version>
         </dependency>
         <dependency>
-           <groupId>net.milkbowl.vault</groupId>
+           <groupId>com.github.MilkBowl</groupId>
             <artifactId>VaultAPI</artifactId>
-            <version>1.7.3</version>
+            <version>1.7</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
