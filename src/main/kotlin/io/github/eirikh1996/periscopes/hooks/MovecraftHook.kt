@@ -5,7 +5,7 @@ import io.github.eirikh1996.periscopes.Periscopes
 import net.countercraft.movecraft.events.CraftRotateEvent
 import net.countercraft.movecraft.events.CraftSinkEvent
 import net.countercraft.movecraft.events.CraftTranslateEvent
-import net.countercraft.movecraft.utils.HitBox
+import net.countercraft.movecraft.util.HitBox
 import org.bukkit.World
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
