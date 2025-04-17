@@ -40,7 +40,7 @@
         </dependency>
         <dependency>
             <groupId>net.countercraft</groupId>
-            <artifactId>Movecraft</artifactId>
+            <artifactId>movecraft</artifactId>
             <version>LATEST</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/Movecraft.jar</systemPath>
