@@ -2,7 +2,7 @@ package io.github.eirikh1996.periscopes
 
 import net.countercraft.movecraft.MovecraftLocation
 import net.countercraft.movecraft.MovecraftRotation
-import net.countercraft.movecraft.util.BitmapHitBox
+import net.countercraft.movecraft.util.hitboxes.BitmapHitBox
 import net.countercraft.movecraft.util.hitboxes.HitBox
 import net.countercraft.movecraft.util.MathUtils
 import org.bukkit.Location
@@ -11,7 +11,7 @@ import org.bukkit.util.Vector
 import java.util.*
 
 import kotlinx.coroutines.*
-import net.countercraft.movecraft.util.BitmapHitBox
+import net.countercraft.movecraft.util.hitboxes.BitmapHitBox
 import org.bukkit.Bukkit
 import org.bukkit.OfflinePlayer
 import org.bukkit.World
